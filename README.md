@@ -38,6 +38,7 @@ This is a simple Library Management System implemented in Python using Tkinter a
 - Ensure Python is installed.
 - Install XAMPP for MySQL.
 - Start MySQL from XAMPP.
+- or you can use MySQL Workbench.
 
 3. Install the PyMySQL Library:
    
