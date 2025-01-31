@@ -32,7 +32,7 @@ This is a simple Library Management System implemented in Python using Tkinter a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/vishal-benake/Library-Management.git
+   git clone https://github.com/vishal-benake/Library-Management-Using-Python-and-MySQL.git
 
 2. Prerequisites:
 - Ensure Python is installed.
